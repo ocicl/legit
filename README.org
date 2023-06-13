@@ -1,0 +1,10 @@
+* legit
+
+CL interface to the GIT binary.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/legit.git   |
+| commit  | 5f8a2d4  |
+| systems | legit |
+|---------+-------------------------------------------|
+
