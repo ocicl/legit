@@ -4,6 +4,6 @@ CL interface to the GIT binary.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Shinmera/legit.git |
-| commit  | c04e03f                                   |
+| commit  | d8df1fd                                   |
 | systems | legit                                     |
 |---------+-------------------------------------------|
